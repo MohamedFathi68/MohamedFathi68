@@ -3,21 +3,18 @@ Hi, i'm Mohamed Fathi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Front-end+Developer;Student;&center=true&width=380&height=45"></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=mohamedfathi68&icon=5&color=9)](https://visitcount.itsvg.in)
-
-
-<img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" width="100%" />
 
 ```
 mohamedfathielqastawy@gmail.com
 ----------------
 💻 I am a self taught FrontEnd Developer
 📝 I have a strong interest in Web Development
-🌱 Learning about Node js | MongoDB | Go
+🌱 Learning about Node js | MongoDB | Express JS
 🌟 Main languages: JavaScript
 
 ```
